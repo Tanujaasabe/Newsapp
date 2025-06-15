@@ -1,0 +1,7 @@
+ <Route path="/business">business
+ <Route path="/business">entertainment <News pageSize={5} category="general" />  </Route>
+ <Route path="/business">general <News pageSize={5} category="general" />  </Route>
+ <Route path="/business">health <News pageSize={5} category="general" />  </Route>
+ <Route path="/business">science <News pageSize={5} category="general" />  </Route>
+ <Route path="/business">sport <News pageSize={5} category="general" />  </Route>
+ <Route path="/business">technology <News pageSize={5} category="general" />  </Route>
